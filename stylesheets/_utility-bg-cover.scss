@@ -12,7 +12,6 @@ category: utilities
 Sets the background image of an element to be positioned centrally and covered and no-repeat.
 
 */
-@import './mixins';
 
 .u-bg-cover {
     @include bg-cover();

@@ -18,5 +18,8 @@
     "url": "https://github.com/mise-en-place/utilities.bg-cover.git"
   },
   "author": "Kind",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "mep-tools.bg-cover": "github:mise-en-place/tools.bg-cover"
+  }
 }
