@@ -13,7 +13,7 @@ Sets the background image of an element to be positioned centrally and covered a
 
 */
 
-@import "tool-bg-cover";
+@import "~mep-tools.bg-cover";
 
 .u-bg-cover {
     @include bg-cover();
