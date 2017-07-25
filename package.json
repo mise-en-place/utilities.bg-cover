@@ -1,5 +1,5 @@
 {
-  "name": "mep-utilities.bg-cover",
+  "name": "@mise-en-place/utilities.bg-cover",
   "version": "2.0.0",
   "description": "Background Cover Utility",
   "main": "stylesheets/_utility-bg-cover.scss",
@@ -14,6 +14,6 @@
   "author": "Kind",
   "license": "MIT",
   "dependencies": {
-    "mep-tools.bg-cover": "github:mise-en-place/tools.bg-cover"
+    "@mise-en-place/tools.bg-cover": "~3.0.0"
   }
 }
