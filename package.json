@@ -1,6 +1,6 @@
 {
   "name": "@mise-en-place/utilities.bg-cover",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Background Cover Utility",
   "main": "stylesheets/_utility-bg-cover.scss",
   "keywords": [
